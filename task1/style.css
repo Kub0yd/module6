@@ -1,0 +1,8 @@
+p {
+    display: inline-block;
+    padding: 5px 10px;
+    letter-spacing: 1px;
+    margin: 0 20px;
+    font-size: 24px;
+    font-family: 'Fredoka One', cursive;
+}
